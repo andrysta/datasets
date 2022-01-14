@@ -15,3 +15,10 @@ sex: penguin sex
 
 Thanks to Parul Pandey page:
 https://www.kaggle.com/parulpandey/palmer-archipelago-antarctica-penguin-data
+
+## Speech recognition samples
+Recorded athttps://voicecoach.ai/voice-recorder
+One english record, two lithuanian records
+english.wav
+lietuviskai.wav
+lietuviskai1.wav
